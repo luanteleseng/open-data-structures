@@ -25,7 +25,4 @@ def main():
     setattr(DLList, 'reverse', reverse)
     v.reverse()
 
-    for i in range(v.n):
-        print(v.get(i))
-
 main()
