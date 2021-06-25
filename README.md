@@ -1,5 +1,6 @@
 # open-data-structures
 
-Resolution of some exercises from the book "Open Data Structure" using Python programming language.
+Resolvendo alguns exercícios do livro "Open Data Structure" usando a linguagem de programação Python.
+
 
 https://opendatastructures.org/
