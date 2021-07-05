@@ -21,8 +21,8 @@ def absorb(self, l2):
 
 
 def main():
-    l1 = SkiplistList(['a', 'b', 'c'])
-    l2 = SkiplistList(['d', 'e', 'f'])
+    l1 = SkiplistList(['x', 'y', 'z'])
+    l2 = SkiplistList(['a', 'b', 'c'])
     setattr(SkiplistList, 'absorb', absorb)
     l1.absorb(l2)
 
